@@ -54,6 +54,7 @@ public class CashbackHackServiceTest {
             service.remain(-1);
         });
     }
+
     @org.junit.Test
     public void amountEqualToTheBonus() {
         int amount = 1000;
